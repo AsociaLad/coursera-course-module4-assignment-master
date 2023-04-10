@@ -2,4 +2,4 @@ Coursera course: HTML, CSS, and Javascript for Web Developers, Module 4 Coding A
 
 https://asocialad.github.io/coursera-course-module4-assignment-master/
 
-Time to complete: About 30 minutes.
+Time to complete: About 69 minutes.
